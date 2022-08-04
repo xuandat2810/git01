@@ -2,6 +2,7 @@
 
 Repository (Repo) (is a core)
 Branch
+Conflict
 
 #Commands
 
