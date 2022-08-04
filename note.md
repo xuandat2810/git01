@@ -37,4 +37,4 @@ comment lai nhung gi da lam roi moi commit
 -git branch (xem nhánh của cây)
 
 - git checkout -b {branch name}
-(chuyển đến nhánh)
+(tạo mới một nhánh)
