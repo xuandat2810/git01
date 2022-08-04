@@ -38,3 +38,10 @@ comment lai nhung gi da lam roi moi commit
 
 - git checkout -b {branch name}
 (tạo mới một nhánh)
+
+- if you want merge
+you switched to branch you want merge
+use - git merge {namebranch}
+
+- delete branch
+- git branch -d {branch name}
