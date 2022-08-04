@@ -63,3 +63,9 @@ hiểu như là tạo một từ ngắn để thay thế cho url dài
 =======
 sau khi đã tạo alius lệnh put sẽ như sau
 - git push {name alius} {name branch}
+
+- git clone {url remote}
+1 vài lệnh của cmd
+- cd "address folder" lệnh chuyển đến 1 folder trong Cd
+- cd/d {name DC}: lệnh chuyển đến 1 ổ đĩa
+- code . lệnh mở visual studio code
