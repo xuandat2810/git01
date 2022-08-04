@@ -3,6 +3,8 @@
 Repository (Repo) (is a core)
 Branch
 Conflict
+Local
+Remote
 
 #Commands
 
@@ -46,3 +48,18 @@ use - git merge {namebranch}
 
 - delete branch
 - git branch -d {branch name}
+
+- Khi đặt tên cho remote repository thì phải đặt cho giống tên project
+
+- git push {url remote repository} {name branch}: lệnh giúp push project lên remote repository
+
+Note: nhưng mỗi lần push ta lại phải copy url remote repository thì rất phiền
+nên ta sẽ tạo 1 alius? thì gọi là đường hướng dẫn
+
+hiểu như là tạo một từ ngắn để thay thế cho url dài
+
+- git remote add {nameAlius} {url remote repo}
+
+=======
+sau khi đã tạo alius lệnh put sẽ như sau
+- git push {name alius} {name branch}
